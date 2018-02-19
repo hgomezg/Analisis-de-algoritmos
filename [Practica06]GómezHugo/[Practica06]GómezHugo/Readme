@@ -1,0 +1,13 @@
+Hugo Alberto Gómez Gutiérrez
+
+Compilar
+1-Abrir terminal y colocarse en el directorio src del proyecto.
+2-Compilar de la siguiente forma:
+	javac SpanningTree.java
+Ejecutar
+1-Abrir terminal y colocarse en el directorio src del proyecto.
+2.-Ejecutar de la siguiente forma
+	java SpanningTree "archivo.graph" "prim"
+
+	En el apartado archivo.graph va el nombre del archivo 
+	En el apartado prim va el nombre del algoritmo 
